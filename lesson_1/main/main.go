@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"lesson_1/themes"
 )
 
@@ -21,8 +20,12 @@ func main() {
 	// =========== Multiple results ===========
 
 	// =========== Named Return Values ===========
-	x, y := themes.Split(15)
-	fmt.Println(x, y)
+	// x, y := themes.Split(15)
+	// fmt.Println(x, y)
 	// =========== Named Return Values ===========
+
+	// =========== Variables ===========
+	themes.Variables()
+	// =========== Variables ===========
 
 }

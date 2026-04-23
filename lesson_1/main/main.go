@@ -25,7 +25,17 @@ func main() {
 	// =========== Named Return Values ===========
 
 	// =========== Variables ===========
-	themes.Variables()
+	// themes.Variables()
 	// =========== Variables ===========
+
+	// themes.BasicType()
+
+	// themes.TypeConversion()
+
+	// themes.Interfaces()
+
+	// themes.Constants()
+
+	themes.NumericConstants()
 
 }

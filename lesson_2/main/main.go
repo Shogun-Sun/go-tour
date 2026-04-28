@@ -7,6 +7,8 @@ func main() {
 	// themes.LoopForContinued()
 	// themes.LoopForever()
 	// themes.Condition()
-	themes.IfShortStatement()
+	// themes.IfShortStatement()
+	// themes.IfAndElse()
+	themes.ExerciseLoopsAndFunctions()
 
 }

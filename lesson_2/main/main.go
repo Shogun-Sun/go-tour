@@ -9,6 +9,7 @@ func main() {
 	// themes.Condition()
 	// themes.IfShortStatement()
 	// themes.IfAndElse()
-	themes.ExerciseLoopsAndFunctions()
+	// themes.ExerciseLoopsAndFunctions()
+	themes.Switch()
 
 }

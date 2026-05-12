@@ -1,8 +1,8 @@
 package main
 
 import (
-	"unicode"
 	"fmt"
+	"unicode"
 )
 
 func main() {
@@ -18,14 +18,14 @@ func Accum(s string) string {
 
 	for i, e := range formatString {
 		for j := 0; j <= i; j++ {
-			if(j == 0) {
+			if j == 0 {
 				resultString += string(unicode.ToUpper(e))
 			} else {
-				resultString += string(e) 
+				resultString += string(e)
 			}
 		}
 
-		if i < len(s) - 1 {
+		if i < len(s)-1 {
 			resultString += "-"
 		}
 	}

@@ -10,6 +10,10 @@ func main() {
 	// themes.IfShortStatement()
 	// themes.IfAndElse()
 	// themes.ExerciseLoopsAndFunctions()
-	themes.Switch()
+	// themes.Switch()
+	// themes.SwitchEvaluationOrder()
+	// themes.SwitchWithNoCondition()
+	// themes.Defer()
+	themes.StackingDefers()
 
 }

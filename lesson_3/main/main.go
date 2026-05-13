@@ -17,5 +17,7 @@ func main() {
 	// themes.CreatingASliceWithMake()
 	// themes.SlicesOfSlices()
 	// themes.AppendingToASlice()
-	themes.Range()
+	// themes.Range()
+	themes.RangeContinued()
+
 }
